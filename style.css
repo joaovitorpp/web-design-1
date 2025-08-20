@@ -1,6 +1,6 @@
 body { 
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: orangered;
     text-align: center;
     padding: 50px;
 }
@@ -8,7 +8,7 @@ button {
     padding: 10px 20px;
     background-color: black;
     border: none;
-    color: white;
+    color: white;   
     font-size: 16px;
     border-radius: 5px;
 }
